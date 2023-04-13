@@ -8,3 +8,5 @@ The data is grouped into the following three folders:
 3. *2 Image concentration profiles:* Corrected concentration data from the camera images.
 
 All figures can be reproduced with the data in *0 Raw particle sizes*. Figures 4 and 7 are more readily available through folders *1 Size stats over depth* and *2 Image concentration profiles* respectively.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7826382.svg)](https://doi.org/10.5281/zenodo.7826382)
